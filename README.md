@@ -6,7 +6,7 @@ Link to Notebook: https://github.com/bgoswami2/UCB_Assignment_5_1/blob/main/prom
 
 
 Problem statement:
-Determine if and what users would accept different types of coupons, if the coupons were given out for different types of products (Bar, Restaurants etc.) to different users with varying age, income, gender and other characteristics. The goal is to find patterns in the users' acceptance of these coupons and come up with a summary of observations, next steps and recommendations for what might make the marketing campaign even more effective.  
+ Determine if and what users would accept different types of coupons, if the coupons were given out for different types of products (Bar, Restaurants etc.) to different users with varying age, income, gender and other characteristics. The goal is to find patterns in the users' acceptance of these coupons and come up with a summary of observations, next steps and recommendations for what might make the marketing campaign even more effective.  
 
 Summary of observations:
  - These coupons are accepted 100% of the time, when a coupon with 1 day or longer is given to a male driver aged between 46-50yrs, with income $50000 − $62499, and between 2PM-10PM of the day
